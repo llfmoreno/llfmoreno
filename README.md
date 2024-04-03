@@ -1,8 +1,6 @@
 ## 🦦 Lucas Moreno
 
-```
-Fullstack Developer
-```
+``` Fullstack Developer ```
 
 🔭 I just finished a storage management application for chemicals used in farms.
 
